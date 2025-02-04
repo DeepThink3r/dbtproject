@@ -2,9 +2,9 @@ version: 2
 
 sources:
     - name: sources
-    - database: northwind
-    - schema: public
-    - tables:
+      database: northwind
+      schema: public
+      tables:
         - name: categories
         - name: products
         - name: suppliers
